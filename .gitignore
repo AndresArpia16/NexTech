@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+nextech.db
+.clave_secreta
+venv/
+static/img/productos/*
+!static/img/productos/.gitkeep
